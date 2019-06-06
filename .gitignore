@@ -85,3 +85,4 @@ local_settings.py
 
 .env
 src/db.sqlite3
+src/the_weather/db.sqlite3
