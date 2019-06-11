@@ -46,3 +46,6 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
+
+# openweathermap.org
+OPAPPID = 'b6907d289e10d714a6e88b30761fae22'
